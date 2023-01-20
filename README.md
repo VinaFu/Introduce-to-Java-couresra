@@ -39,5 +39,15 @@
     naming: camelCase; NOT start with num.
     primatives: byte, short, int, long, float, double, boolean, char
     
-    Wrapper class
+    Wrapper class:
+    
+    Primitive type	Wrapper class
+        boolean	Boolean
+        byte	Byte
+        char	Character
+        float	Float
+        int	Integer
+        long	Long
+        short	Short
+        double	Double
     
