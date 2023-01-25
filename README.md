@@ -24,7 +24,7 @@
         //
         /* ... */
         /**
-        *
+        //(nested one, use //; because comment stop at the first closing sign)
         */
     
 [Editions]
